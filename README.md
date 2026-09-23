@@ -1,2 +1,2 @@
 # Leads_Explorer
-Search for potential leads in your domain with the key words of your bussnes
+Search for potential leads in your domain with the key words of your bussines
